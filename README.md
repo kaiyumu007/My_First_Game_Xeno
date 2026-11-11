@@ -12,7 +12,7 @@ I made this game when I was learning Python List chapter in my Diploma in Electr
 - Random Module
 
 ## How To Play
-1. Run the file `my_first_game.py`
+1. Run the file `game.py`
 2. Enter your name
 3. Guess a number between 1 to 10
 4. You have 3 chances to win
